@@ -1015,7 +1015,7 @@ export default function PawfectMatch(): JSX.Element {
           <div className="flex items-center">
             <Dog className="text-pink-500" size={24} />
             <h1 className="text-xl font-bold ml-2 bg-gradient-to-r from-pink-500 to-red-500 text-transparent bg-clip-text">
-              Pawfect Match
+              Petfectly
             </h1>
           </div>
           {activeTab === 'discover' && (
